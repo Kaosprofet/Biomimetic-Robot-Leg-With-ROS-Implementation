@@ -4,6 +4,8 @@ The four joints are actuated by Brushed-DC motors.<br />
 Joint states are kept track of by incremental encoders, which communicate with the embedded controller on I2C bus.<br />
 The embedded controller is Arduino Mega running as a ROS Serial Node.<br />
 
+The complete thesis can be accessed [here](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2781045).
+
 
 ![3D Model](https://github.com/VegardHovland/E2103-Bachelor/blob/main/163385725_524834042242400_6926905120112491868_n.png)
 
